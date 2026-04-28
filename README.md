@@ -240,10 +240,10 @@ Step 8: Show live Cloud Run URL
 
 | Role | Focus Area |
 |------|-----------|
-| **Member 1** — The Builder | Frontend (React, Map, UI/UX) |
-| **Member 2** — The Brain | Backend (FastAPI, Priority Engine, Matching) |
-| **Member 3** — The Bridge | AI/Gemini (Classification, SITREP, Forecasting) |
-| **Member 4** — The Base | Cloud/DB (Firebase, Cloud Run, Deployment) |
+| **Anish Sarkar** — The Builder | Frontend (React, Map, UI/UX) |
+| **Arya Ghosh** — The Brain | Backend (FastAPI, Priority Engine, Matching) |
+| **Rishav Ghosh** — The Bridge | AI/Gemini (Classification, SITREP, Forecasting) |
+| **Md Ziauddin** — The Base | Cloud/DB (Firebase, Cloud Run, Deployment) |
 
 ---
 
